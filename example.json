@@ -1,0 +1,14 @@
+{
+	"APIMethod":"http://poloniex.com/public?command=returnOrderBook&currencyPair=BTC_FCT&depth=4",
+	"ChainID":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+	"SecKey":"bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+	"ECAddr":"poloniex"
+}
+{
+	"APIMethod":"http://poloniex.com/public?command=returnOrderBook&currencyPair=USDT_BTC&depth=4",
+	"ChainID":"cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc",
+	"SecKey":"dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd",
+	"ECAddr":"poloniex"
+}
+
+...
